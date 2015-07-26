@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =======================================================================
 Tidy Data for Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -29,3 +30,6 @@ The steps used to achieve the tidy data set is as follows:
    and written to a new text file. This is the tidy data. 
   
   
+=======
+# Getting-and-Cleaning-Data
+>>>>>>> 1e70db884a5f09181e628cf0ed195ad58689a79a
